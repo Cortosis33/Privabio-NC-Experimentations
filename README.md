@@ -1,7 +1,7 @@
 # Near-collisons-and-their-impact-on-biometric-security
 
 This code directory presents the code used for the paper "Near collisons and their impact on biometric security" experiments.
-You will find here the paper, a documentation and several code files in python 3.
+You will find here the paper, the presentation beamer and a folder "code" with the documentation and several files in python 3.
 
 
 The paper is also available here: https://arxiv.org/abs/2205.04229 or https://hal.science/hal-03751547/document.
